@@ -18,7 +18,7 @@
 <br>
 <p align="left">
 
-<img src="https://img.shields.io/badge/isuruwa-ABOUT%20TOOL-blueviolet?style=for-the-badge&logo=appveyor">  
+<img src="https://img.shields.io/badge/Cod3Uchiha-ABOUT%20TOOL-blueviolet?style=for-the-badge&logo=appveyor">  
 
 ## ABOUT TOOL :  <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
   
