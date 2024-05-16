@@ -10,9 +10,9 @@
 <p align="center">
 <img src="https://www.commbox.io/wp-content/uploads/2020/01/168-1.jpg">
 <p align="center">
-<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-WA--BOT-blueviolet?style=for-the-badge&logo=appveyor"></a>
+<a href="https://github.com/Cod3Uchiha"><img title="addon" src="https://img.shields.io/badge/isuruwa-WA--BOT-blueviolet?style=for-the-badge&logo=appveyor"></a>
 <p align="center">
-<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwawabot" />
+<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=TKM-md" />
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisuruwa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
@@ -23,12 +23,8 @@
 
 ## ABOUT TOOL :  <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
   
-## I'm Not Adding Any API s like downloaders , because they are unstable . You can Add If you Like
   
-## Only a Base of Basic Whatsapp Bot Redeveloped Using https://github.com/adiwajshing/Baileys & https://github.com/MhankBarBar/termux-wabot , https://github.com/HotarouTakahashi/Termux-Whatsapp-Bot-English Repo s . Add Your Own Functions & Redevelop It . 
-  
-  
-# Tested On - Termux   <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
+## Tested On - Termux   <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
  
   
 <br>
@@ -108,28 +104,7 @@
   
 # Scan The Generated QR CODE & BOOM ... 👻
   
-  
-  
-# SOURCES - https://github.com/adiwajshing/Baileys , https://github.com/MhankBarBar/termux-wabot  , https://github.com/HotarouTakahashi/Termux-Whatsapp-Bot-English
-  
-# Only basic Commands Included . Redevelop It as a yours .
-  
-  
 <p align="center">
   
 <img src="https://img.icons8.com/cute-clipart/256/000000/whatsapp.png"/>
-  
-  
-# SCREENSHOTS : 
-  
-![Screenshot_20210627-181021_Termux_LI](https://user-images.githubusercontent.com/72663288/123545174-63793c80-d774-11eb-889b-61784367515c.jpg)
-
-![Screenshot_20210627-181834_Termux_LI](https://user-images.githubusercontent.com/72663288/123545179-6b38e100-d774-11eb-898c-df1b3897db77.jpg)
-
-![Screenshot_20210701-110146_FMWhatsApp](https://user-images.githubusercontent.com/72663288/124071136-8b122280-da5c-11eb-969c-2c1526598916.jpg)
-
-  
-
-
-  
   
