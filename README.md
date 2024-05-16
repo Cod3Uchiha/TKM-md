@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/ISURUWA-WA--BOT-brightgreen?style=for-the-badge&logo=appveyor">
+
 
 ```
 ----- LOGS -----
