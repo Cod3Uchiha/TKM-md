@@ -491,14 +491,14 @@ https://github.com/Cod3uchiha
             client.groupDemoteAdmin(from, mentioned)
           }
           break
-        case 'add':
+      case 'add':
           if (!isGroup) return reply(mess.only.group)
           if (!isGroupAdmins) return reply(mess.only.admin)
           if (!isBotGroupAdmins) return reply(mess.only.Badmin)
           if (args.length < 1) return reply('Do you want to add a number?')
           if (args[0].startsWith('08')) return reply('Use the country code')
           try {
-            num = ${args[0].replace(/ /g, '')}@s.whatsapp.net`
+            num = ${args[0].replace(/ /g, '')}@s.whatsapp.net
             client.groupAdd(from, [num])
           } catch (e) {
             console.log('Error :', e)
