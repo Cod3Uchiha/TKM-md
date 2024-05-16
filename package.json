@@ -1,7 +1,7 @@
 {
   "name": "TKM-md",
   "version": "0.0.2",
-  "description": "TKM-md whatsapp bot made using baileys,it is being redeveloped by Cod3uchiha,
+  "description": "TKM-md"
   "main": "index.js",
   "directories": {
     "lib": "lib"
