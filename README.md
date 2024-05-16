@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Cod3Uchiha-ABOUT%20TOOL-blueviolet?style=for-the-badge&logo=appveyor">  
 
 ## ABOUT TOOL :  <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
-  
+  *a Whatsapp automation tool by the Cod3Uchiha 
   
 ## Tested On - Termux   <img src="https://img.icons8.com/cute-clipart/50/000000/double-tick.png">
  
@@ -96,7 +96,7 @@
 * `apt-get update -y`
 * `apt-get upgrade -y`
 * `apt install nodejs -y`
-* `git clone https://github.com/isuruwa/WA-BOT`
+* `git clone https://github.com/Cod3Uchiha/TKM-md`
 * `cd WA-BOT`
 * `bash install.sh`
 * `npm start`
